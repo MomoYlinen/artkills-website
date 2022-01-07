@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Artkills Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is website project for my friend and he's band. Its still under working process and need some polish.
 
 ## Available Scripts
 
